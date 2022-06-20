@@ -1,0 +1,4 @@
+---
+title: Page
+permalink: /page
+---
