@@ -2,5 +2,6 @@ collections:
   get-involved:
     output: true
     order:
+      - Green Plan Conversations.md
       - page/.keep
       - page/sub-page.md
