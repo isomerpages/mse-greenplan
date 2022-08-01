@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - Waste Management.md
       - Biodiversity.md
       - Energy.md
       - Food Security.md
