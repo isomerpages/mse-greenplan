@@ -2,6 +2,7 @@ collections:
   get-involved:
     output: true
     order:
+      - Share Your Ideas.md
       - Green Plan Conversations.md
       - page/.keep
       - page/sub-page.md
