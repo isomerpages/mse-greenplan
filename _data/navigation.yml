@@ -8,3 +8,5 @@ links:
     collection: collection
   - title: Resource
     resource_room: true
+  - title: About
+    collection: about
