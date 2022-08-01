@@ -1,0 +1,4 @@
+collections:
+  focus-areas:
+    output: true
+    order: []
