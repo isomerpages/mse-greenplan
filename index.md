@@ -21,6 +21,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      background: /images/14-oct-masthead.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
