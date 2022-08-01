@@ -1,12 +1,12 @@
 logo: /images/logo_sog.png
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: About
+    collection: about
   - title: Page
     url: /page/
   - title: Collection
     collection: collection
-  - title: Resource
+  - title: Resources
     resource_room: true
-  - title: About
-    collection: about
+  - title: Contact Us
+    url: /contact-us/
