@@ -9,7 +9,6 @@ sections:
   - hero:
       title: A City of Green Possibilites
       subtitle: SG Green Plan
-      background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -33,4 +32,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
