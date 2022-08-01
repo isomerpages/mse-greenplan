@@ -2,7 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
-      - Homes.md
+      - Housing.md
       - Buildings.md
       - Economy.md
       - Biodiversity.md
