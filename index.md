@@ -21,10 +21,6 @@ sections:
       button: Read More
       url: "#"
       alt: Image alt text
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
       description: With these ambitious, concrete targets over the next 10 years, it
@@ -33,5 +29,16 @@ sections:
       button: Read More
       url: "#"
       image: /images/why-sgp30.jpg
+      alt: Image alt text
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
+  - infopic:
+      title: Why Is The Green Plan Important?
+      description: Climate change is a global challenge, and Singapore is taking firm
+        actions to do our part to build a sustainable future.
+      button: Read More
+      url: "#"
       alt: Image alt text
 ---
