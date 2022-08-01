@@ -30,10 +30,6 @@ sections:
       url: "#"
       image: /images/why-sgp30.jpg
       alt: Image alt text
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: Why Is The Green Plan Important?
       description: Climate change is a global challenge, and Singapore is taking firm
@@ -41,4 +37,9 @@ sections:
       button: Read More
       url: "#"
       alt: Image alt text
+      image: /images/what-is-climate-change.jpg
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---
