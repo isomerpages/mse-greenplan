@@ -4,8 +4,8 @@ links:
     collection: about
   - title: Page
     url: /page/
-  - title: Collection
-    collection: collection
+  - title: Get Involved
+    collection: get-involved
   - title: Resources
     resource_room: true
   - title: Contact Us
