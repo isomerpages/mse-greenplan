@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - Our Vision.md
       - Overview.md
+      - Our Vision.md
       - Key Targets.md
       - Our Global Commitment.md
