@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Our Global Commitment.md
-      - Key Targets.md
       - Overview.md
+      - Key Targets.md
+      - Our Global Commitment.md
