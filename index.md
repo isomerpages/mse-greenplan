@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       title: A City of Green Possibilites
-      subtitle: SG Green Plan
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
