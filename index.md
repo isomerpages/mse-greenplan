@@ -3,7 +3,7 @@ layout: homepage
 title: Singapore Green Plan 2030
 description: Learn how Singapore will transform into a global city of
   sustainability with the Singapore Green Plan 2030.
-image: /images/isomer-logo.svg
+image: /images/14-oct-masthead.jpg
 permalink: /
 notification: ""
 sections:
@@ -44,4 +44,5 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
