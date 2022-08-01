@@ -39,4 +39,26 @@ sections:
       title: Latest News
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: What Are The Green Plan’s Key Targets?
+      description: TBC
+      button: Read more
+      url: "#"
+      image: /images/impacts-of-climate-change.jpg
+      alt: greenery in singapore
+  - infopic:
+      title: How Will We Achieve These Key Targets?
+      description: "The Green Plan comprises 5 pillars that will influence all aspects
+        of our lives:"
+      button: Read more
+      url: "#"
+      alt: Image alt text
+  - infopic:
+      title: You Can Help Transform Our City
+      description: Everyone can play a part in making the Green Plan a reality. Let's
+        build a greener and more liveable home together.
+      button: Get Involved
+      url: "#"
+      image: /images/how-it-transforms.jpg
+      alt: Image alt text
 ---
