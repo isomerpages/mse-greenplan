@@ -2,11 +2,11 @@ logo: /images/logo_sog.png
 links:
   - title: About
     collection: about
-  - title: Page
-    url: /page/
   - title: Get Involved
     collection: get-involved
   - title: Resources
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Focus Areas
+    collection: focus-areas
