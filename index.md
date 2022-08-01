@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Singapore Green Plan 2030
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -33,3 +33,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
