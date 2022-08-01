@@ -1,5 +1,5 @@
 collections:
-  collection:
+  get-involved:
     output: true
     order:
       - page/.keep
