@@ -9,15 +9,9 @@ sections:
   - hero:
       title: A City of Green Possibilites
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: ""
+          description: ""
+          url: ""
       background: /images/14-oct-masthead.jpg
   - infobar:
       title: Infobar title
@@ -29,4 +23,12 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: What Is The Singapore Green Plan 2030?
+      description: The Singapore Green Plan 2030, or the Green Plan, is a
+        whole-of-nation movement to advance Singapore’s national agenda on
+        sustainable development.
+      button: Read More
+      url: "#"
+      alt: Image alt text
 ---
