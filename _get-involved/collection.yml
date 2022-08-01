@@ -2,10 +2,10 @@ collections:
   get-involved:
     output: true
     order:
-      - What Businesses Can Do.md
       - What You Can Do.md
-      - Funding.md
+      - What Businesses Can Do.md
       - Share Your Ideas.md
       - Green Plan Conversations.md
+      - Funding.md
       - page/.keep
       - page/sub-page.md
