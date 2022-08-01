@@ -2,6 +2,7 @@ collections:
   get-involved:
     output: true
     order:
+      - What Businesses Can Do.md
       - What You Can Do.md
       - Funding.md
       - Share Your Ideas.md
