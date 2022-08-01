@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Singapore Green Plan 2030
-description: An Isomer site of the Singapore Government
+description: Learn how Singapore will transform into a global city of
+  sustainability with the Singapore Green Plan 2030.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -43,3 +44,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
