@@ -2,7 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
-      - Food Security.md
       - Biodiversity.md
       - Energy.md
+      - Food Security.md
       - Transport.md
