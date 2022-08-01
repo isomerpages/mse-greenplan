@@ -2,9 +2,9 @@ collections:
   focus-areas:
     output: true
     order:
-      - Green Government.md
       - Biodiversity.md
       - Energy.md
       - Food Security.md
       - Transport.md
       - Waste Management.md
+      - Green Government.md
