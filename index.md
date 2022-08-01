@@ -9,11 +9,10 @@ notification: ""
 sections:
   - hero:
       title: A City of Green Possibilites
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
       background: /images/14-oct-masthead.jpg
+      dropdown:
+        title: What's your area of interest?
+        options: []
   - infopic:
       title: What Is The Singapore Green Plan 2030?
       description: The Singapore Green Plan 2030, or the Green Plan, is a
@@ -44,5 +43,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
-
