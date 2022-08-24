@@ -18,6 +18,7 @@ sections:
       button: Read More
       url: "#"
       alt: Green Plan Ministers
+      image: /images/SGP_Home.jpg
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
       description: With these ambitious, concrete targets over the next 10 years, it
@@ -35,10 +36,6 @@ sections:
       url: "#"
       alt: family enjoying greenery
       image: /images/what-is-climate-change.jpg
-  - resources:
-      title: Latest News
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: What Are The Green Plan’s Key Targets?
       description: TBC
@@ -61,4 +58,8 @@ sections:
       url: "#"
       image: /images/how-it-transforms.jpg
       alt: Image alt text
+  - resources:
+      title: Latest News
+      subtitle: Learn more
+      button: View More
 ---
