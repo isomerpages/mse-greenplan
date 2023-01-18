@@ -22,8 +22,8 @@ sections:
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
       description: With these ambitious, concrete targets over the next 10 years, it
-        positions us to achieve our long-term net zero emissions aspiration as
-        soon as viable.
+        positions us to achieve our long-term net zero emissions aspiration by
+        2050.
       button: Read More
       url: "#"
       image: /images/why-sgp30.jpg
