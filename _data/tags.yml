@@ -1,1 +1,10 @@
-
+- slug: free
+  name: Free
+- slug: paid
+  name: Paid
+- slug: watersec
+  name: Water Security
+- slug: foodsec
+  name: Food Security
+- slug: zerowaste
+  name: Zero Waste
