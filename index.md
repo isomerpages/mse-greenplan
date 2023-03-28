@@ -70,4 +70,9 @@ sections:
       title: Latest News
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: Infobar Title
+      subtitle: What's News
+      description: Infobar description
+      button: Button Text
 ---
