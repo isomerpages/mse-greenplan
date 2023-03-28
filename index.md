@@ -5,7 +5,7 @@ description: Learn how Singapore will transform into a global city of
   sustainability with the Singapore Green Plan 2030.
 image: /images/14-oct-masthead.jpg
 permalink: /
-notification: ""
+notification: "New activities added! "
 sections:
   - hero:
       title: Go Green SG
@@ -14,7 +14,7 @@ sections:
         title: Describe yourself
         options:
           - title: Adventure Seeker
-            url: "#"
+            url: www.gogreen.gov.sg/
   - infopic:
       title: What Is The Singapore Green Plan 2030?
       description: The Singapore Green Plan 2030, or the Green Plan, is a
