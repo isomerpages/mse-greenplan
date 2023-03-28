@@ -17,6 +17,8 @@ sections:
             url: www.gogreen.gov.sg/
           - title: Family First
             url: www.gogreen.gov.sg/
+          - title: Fashionista
+            url: http://www.gogreen.gov.sg
   - infopic:
       title: What Is The Singapore Green Plan 2030?
       description: The Singapore Green Plan 2030, or the Green Plan, is a
