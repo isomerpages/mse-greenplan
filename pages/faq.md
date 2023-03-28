@@ -20,9 +20,9 @@ permalink: /faq/
 </style>
 
 <div class="slider">
-  <div class="slide" id="slide-1"></div>
-  <div class="slide" id="slide-2"></div>
-  <div class="slide" id="slide-3"></div>
-  <div class="slide" id="slide-4"></div>
-  <div class="slide" id="slide-5"></div>
+  <div class="slide" id="slide-1">1</div>
+  <div class="slide" id="slide-2">2</div>
+  <div class="slide" id="slide-3">3</div>
+  <div class="slide" id="slide-4">4</div>
+  <div class="slide" id="slide-5">5</div>
 </div>
