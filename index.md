@@ -8,8 +8,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: A City of Green Possibilites
+      title: Go Green SG
       background: /images/14-oct-masthead.jpg
+      dropdown:
+        title: Describe yourself
+        options:
+          - title: Adventure Seeker
+            url: "#"
   - infopic:
       title: What Is The Singapore Green Plan 2030?
       description: The Singapore Green Plan 2030, or the Green Plan, is a
