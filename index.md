@@ -19,6 +19,11 @@ sections:
             url: www.gogreen.gov.sg/
           - title: Fashionista
             url: http://www.gogreen.gov.sg
+  - infobar:
+      title: Infobar Title
+      subtitle: What's News
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: FOOD SECURITY
       description: Many activities to learn about farming
@@ -70,9 +75,4 @@ sections:
       title: Latest News
       subtitle: Learn more
       button: View More
-  - infobar:
-      title: Infobar Title
-      subtitle: What's News
-      description: Infobar description
-      button: Button Text
 ---
