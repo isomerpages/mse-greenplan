@@ -20,14 +20,13 @@ sections:
           - title: Fashionista
             url: http://www.gogreen.gov.sg
   - infopic:
-      title: What Is The Singapore Green Plan 2030?
-      description: The Singapore Green Plan 2030, or the Green Plan, is a
-        whole-of-nation movement to advance Singapore’s national agenda on
-        sustainable development.
+      title: FOOD SECURITY
+      description: Many activities to learn about farming
       button: Read More
       url: "#"
       alt: Green Plan Ministers
       image: /images/SGP_Home.jpg
+      subtitle: "THEMES #!"
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
       description: With these ambitious, concrete targets over the next 10 years, it
