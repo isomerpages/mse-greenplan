@@ -32,6 +32,10 @@ sections:
       alt: Green Plan Ministers
       image: /images/SGP_Home.jpg
       subtitle: "THEMES #!"
+  - resources:
+      title: Latest News
+      subtitle: Learn more
+      button: View More
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
       description: With these ambitious, concrete targets over the next 10 years, it
@@ -71,8 +75,4 @@ sections:
       url: "#"
       image: /images/how-it-transforms.jpg
       alt: Image alt text
-  - resources:
-      title: Latest News
-      subtitle: Learn more
-      button: View More
 ---
