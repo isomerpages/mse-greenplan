@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free event, food-related
-permalink: "/resource/speeches/posts/foodeventf"
+permalink: "/resource/speeches/foodeventf"
 tags:
 - free
 - food
