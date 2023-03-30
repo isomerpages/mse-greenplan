@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Waste-related event, free
-permalink: "/resource/resource-categories/wasteeventf"
+permalink: "/resource/speeches/posts/wasteeventf"
 tags:
 - free
 - waste
