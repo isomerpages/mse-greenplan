@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Waste-related event, free
-tags: [free, waste]
+permalink: "/resource/resource-categories/wasteeventf"
+tags:
+- free
+- waste
 ---
 
 Test
