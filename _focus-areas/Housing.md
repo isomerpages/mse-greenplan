@@ -32,5 +32,5 @@ For new developments, these include solar-ready roofs for easier installation of
 
 For existing towns, through the Green Towns Programme, we have introduced initiatives aimed at reducing energy consumption, recycling rainwater, and cooling HDB towns.
 
-<button class="pill" type="button">24 Hours</button>
-<button class="pill pill--selected" type="button">Top Rated</button>
+<button class="pill" type="button">Read More</button>
+<button class="pill pill--selected" type="button">Click here</button>
