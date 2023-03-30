@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: Free event, food-related
-permalink: /
+permalink: "/resource/resource-categories/foodeventf"
 tags:
 - free
 - food
