@@ -1,7 +1,11 @@
 ---
-layout: post
+layout: default
 title: Free event, food-related
-tags: [free, food]
+permalink: /
+tags:
+- free
+- food
+
 ---
 
 Test text 
