@@ -6,7 +6,7 @@ description: ""
 
 **Our Global Commitment to Climate Change and Sustainable Development**
 
-![Our Global Commitment](https://d33wubrfki0l68.cloudfront.net/646e6c4f172279c47ef203a40b88aa1c76d5adf4/8e613/images/framework/framework_global_commitment.jpg)
+![Our Global Commitment](/images/framework/framework_global_commitment.jpg)
 
 **Supporting the Paris Agreement**
 
